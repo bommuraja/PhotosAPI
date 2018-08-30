@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotosAPI", "PhotosAPI\PhotosAPI.csproj", "{8BE83B3A-9DA1-4A33-BE4D-374B07D4FB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE83B3A-9DA1-4A33-BE4D-374B07D4FB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE83B3A-9DA1-4A33-BE4D-374B07D4FB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE83B3A-9DA1-4A33-BE4D-374B07D4FB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE83B3A-9DA1-4A33-BE4D-374B07D4FB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D3B1CAE-073B-44D3-9E0D-478EEA33D5F2}
+	EndGlobalSection
+EndGlobal
